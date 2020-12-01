@@ -1,1 +1,1 @@
-# advantofcode2020
+# adventofcode2020
